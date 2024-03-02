@@ -256,7 +256,12 @@
       "https://comick.cc/*"
     ],
     "Gogoanime": [
-      "https://anitaku.to/*"
+      "https://anitaku.to/*",
+      "https://gogoanime3.co/*"
+    ],
+    "KickAssAnime": [
+      "https://kickassanimes.io/*",
+      "https://kickassanime.mx/*"
     ],
     "MangaNato": [
       "https://chapmanganato.to/*"
@@ -282,6 +287,7 @@
       "https://mdbekjwqa.pw/e/*",
       "https://mdfx9dc8n.net/e/*",
       "https://mdzsmutpcvykb.net/e/*",
+      "https://mixdrop21.net/e/*",
       "https://embtaku.pro/embedplus*",
       "https://embtaku.pro/streaming.php?*",
       "https://embtaku.pro/load.php?*",
@@ -295,6 +301,7 @@
       "https://bradleyviewdoctor.com/e/*",
       "https://jamiesamewalk.com/e/*",
       "https://seanshowcould.com/e/*",
+      "https://sharonwhiledemocratic.com/e/*",
       "https://api.animeflix.dev/*",
       "https://streamwish.to/e/*",
       "https://sfastwish.com/e/*",
