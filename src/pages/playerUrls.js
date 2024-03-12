@@ -266,6 +266,7 @@ module.exports = {
       '*://*.mdbekjwqa.pw/e/*',
       '*://*.mdfx9dc8n.net/e/*',
       '*://*.mdzsmutpcvykb.net/e/*',
+      '*://*.mixdrop21.net/e/*',
       // auto-mixdrop-replace-dont-remove
     ],
   },
@@ -675,6 +676,7 @@ module.exports = {
       '*://bradleyviewdoctor.com/e/*',
       '*://jamiesamewalk.com/e/*',
       '*://seanshowcould.com/e/*',
+      '*://sharonwhiledemocratic.com/e/*',
       // auto-voe-replace-dont-remove
     ],
   },
